@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://salalaheye.com/sitemap.xml
+Sitemap: https://salalaheye.om/sitemap.xml
